@@ -1,0 +1,46 @@
+
+.resultDiv{
+    display: flex;
+    flex-direction: column;
+
+    width: 80%;
+    height: 60vh;
+    margin-top: 2%;
+    justify-content: space-evenly;
+    }
+
+.resultItems1{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-self: center;
+}
+
+.resultItems2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+.resultItems1 span{
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+
+.notice{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+}
+
+.notice span{
+    font-size: 32pt;
+}
+
+.button{
+    padding: 5%;
+}

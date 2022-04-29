@@ -1,0 +1,13 @@
+
+.modbody{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.modtitle{
+    color:hsl(217, 16%, 45%);
+    font-weight: 500;
+}
+
